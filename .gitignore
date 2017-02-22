@@ -1,3 +1,2 @@
-WF_sciama.py
-*.npy
+data/*.npy
 .ipynb_checkpoints/
