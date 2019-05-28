@@ -9,7 +9,7 @@ The homepage of the lectures is accessible [here](http://www.florent-leclercq.eu
   * [Examples and a digression on non-Gaussianity](GRF_and_fNL.ipynb)
   * Bayesian signal processing and reconstruction: de-noising ([example](WienerFilter_denoising.ipynb), [example with the CMB](WienerFilter_denoising_CMB.ipynb))
   * Bayesian signal processing and reconstruction: [de-blending](WienerFilter_deblending.ipynb)
-  * [Bayesian decision theory](DecisionTheory.ipynb)
+* [Bayesian decision theory](DecisionTheory.ipynb)
 * Markov Chain Monte Carlo:
   * [Monte-Carlo integration, importance sampling, rejection sampling](Sampling_Importance_Rejection.ipynb)
   * [Metropolis-Hastings algorithm & Gelman-Rubin test](MCMC_MH.ipynb)
@@ -25,7 +25,7 @@ The homepage of the lectures is accessible [here](http://www.florent-leclercq.eu
   * [Supervised Machine Learning basics: Titanic example](Machine_Learning_basics.ipynb)
 
 ### Acknowledgments ###
-FL thanks Benjamin Wandelt for his own lectures which have inspired a fraction of this material. 
+FL thanks Benjamin Wandelt for his own lectures, which have inspired a fraction of this material. 
 
 ### Warranty ###
 
