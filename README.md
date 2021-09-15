@@ -26,9 +26,9 @@ The homepage of the lectures is accessible [here](http://www.florent-leclercq.eu
 * Cosmological and physical examples:
   * [Wiener filtering for the Cosmic Microwave Background](WienerFilter_denoising_CMB.ipynb)
   * [Bayesian decision theory for Cosmic Web classification](DecisionTheory.ipynb)
-  * Supernova cosmology: [data and simulations](Supernova_data_simulations.ipynb) (preliminary exercise) and [inference with MCMC and HMC](Supernova_MCMC_HMC.ipynb) 
+  * Supernova cosmology: [data and simulations](Supernova_data_simulations.ipynb) (preliminary exercise) and [inference with MCMC and HMC](Supernova_MCMC_HMC.ipynb)
   * The 1919 Eclipse: [parameter inference and model comparison](Eclipse1919_MCMC_HMC.ipynb)
-  
+
 ### Acknowledgments ###
 
 I thank Benjamin Wandelt for his own lectures, which have inspired a fraction of this material, and the SOC/LOC of the [ICIC Data Analysis workshop 2021](https://www.imperial.ac.uk/astrophysics/centre-for-inference-and-cosmology/seminars-and-events/data-analysis-workshops/) and [STFC Summer School on Data Intensive Science 2021](https://conference.astro.dur.ac.uk/event/3/overview).
