@@ -27,7 +27,7 @@ The homepage of the lectures is accessible [here](http://www.florent-leclercq.eu
   * [Wiener filtering for the Cosmic Microwave Background](WienerFilter_denoising_CMB.ipynb)
   * [Bayesian decision theory for Cosmic Web classification](DecisionTheory.ipynb)
   * Supernova cosmology: [data and simulations](Supernova_data_simulations.ipynb) (preliminary exercise) and [inference with MCMC and HMC](Supernova_MCMC_HMC.ipynb)
-  * The 1919 Eclipse: [parameter inference and model comparison](Eclipse1919_MCMC_HMC.ipynb)
+  * The 1919 Eclipse: [parameter inference and model comparison](Eclipse1919_MCMC.ipynb)
 
 ### Acknowledgments ###
 
