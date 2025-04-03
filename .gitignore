@@ -1,3 +1,4 @@
 data/*.npz
 data/*.npy
+plots/*
 .ipynb_checkpoints/
