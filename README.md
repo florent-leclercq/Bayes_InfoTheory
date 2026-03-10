@@ -4,11 +4,11 @@ This is a repository of Jupyter notebooks used by Florent Leclercq during lectur
 The homepage of the lectures is accessible [here](http://www.florent-leclercq.eu/teaching.php).
 
 ### Contents ###
-* Ignorance priors (exemplified with the [lighthouse problem](LighthouseProblem.ipynb)) and the [maximum entropy principle](MaximumEntropy.ipynb)
+* Ignorance priors (exemplified with the [lighthouse problem](Lighthouse_problem.ipynb)) and the [maximum entropy principle](Maximum_entropy.ipynb)
 * Gaussian random fields:
-  * [Examples and a digression on non-Gaussianity](GRF_and_fNL.ipynb)
-  * Bayesian signal processing and reconstruction:  [de-noising](WienerFilter_denoising.ipynb)
-  * Bayesian signal processing and reconstruction: [de-blending](WienerFilter_deblending.ipynb)
+  * [Examples and a digression on non-Gaussianity](GRFs_and_fNL.ipynb)
+  * Bayesian signal processing and reconstruction: [de-noising](Wiener_filter_denoising.ipynb)
+  * Bayesian signal processing and reconstruction: [de-blending](Wiener_filter_deblending.ipynb)
 * [Bayesian decision theory](DecisionTheory.ipynb)
 * Markov Chain Monte Carlo:
   * [Monte-Carlo integration, importance sampling, rejection sampling](Sampling_Importance_Rejection.ipynb)
@@ -20,11 +20,12 @@ The homepage of the lectures is accessible [here](http://www.florent-leclercq.eu
   * [Likelihood-free rejection sampling](ABC_rejection.ipynb)
   * [Synthetic likelihood (parametric approximation)](ABC_synthetic_likelihood.ipynb)
   * [Discrepancy and effective likelihood (non-parametric approximation)](ABC_discrepancy_effective_likelihood.ipynb)
+  * [Implicit likelihood inference with Gaussian signals](ILI_Gaussian_signals.ipynb)
 * Information theory:
   * [The noisy binary symmetric channel](IT_noisy_binary_channel.ipynb)
   * [Supervised Machine Learning basics: Titanic example](Machine_Learning_basics.ipynb)
 * Cosmological and physical examples:
-  * [Wiener filtering for the Cosmic Microwave Background](WienerFilter_denoising_CMB.ipynb)
+  * [Wiener filtering for the Cosmic Microwave Background](Wiener_filter_denoising_CMB.ipynb)
   * [Bayesian decision theory for Cosmic Web classification](DecisionTheory.ipynb)
   * Supernova cosmology: [data and simulations](Supernova_data_simulations.ipynb) (preliminary exercise) and [inference with MCMC and HMC](Supernova_MCMC_HMC.ipynb)
   * The 1919 Eclipse: [parameter inference and model comparison](Eclipse1919_MCMC.ipynb)
